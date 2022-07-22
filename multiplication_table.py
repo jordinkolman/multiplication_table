@@ -14,7 +14,7 @@ def multiplication_table():
     print()
     print()
     # Display Header
-    print("         --- Multiplication Table (",size,"x",size,")---")
+    print("         --- Multiplication Table (",size,"x",size,") ---")
     print("    ",end="")
     size += 1
     for h in range(1,size):
